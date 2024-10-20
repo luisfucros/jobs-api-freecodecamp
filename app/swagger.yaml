@@ -4,7 +4,7 @@ info:
   contact: {}
   version: '1.0'
 servers:
-  - url: https://congenial-cod-vg9rq9jgrw9f6xrq-3000.app.github.dev/api/v1
+  - url: https://localhost:3000/api/v1
     variables: {}
 paths:
   /auth/register:
